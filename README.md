@@ -1,6 +1,4 @@
-# Building-ChainBridge
-
-Here are tailored answers to each of the questions in your project proposal based on recent research:
+# Building-ChainBridge using Avail
 
 ### 1. What are you planning to build during the cohort?
 We plan to build **ChainBridge**, a modular framework for unified data access across Ethereum's Layer-2 networks. ChainBridge will provide a seamless way for dApps to interact with multiple Ethereum Layer-2 solutions such as zkRollups, Optimistic Rollups, and Plasma, enabling developers to easily access aggregated data and execute transactions across these networks without friction.
